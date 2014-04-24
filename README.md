@@ -1,0 +1,4 @@
+ClassificationPipeline
+======================
+
+generic classification pipleline
